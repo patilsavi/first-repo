@@ -1,4 +1,5 @@
 #!/bin/bash
-cal >> abhii.txt
+cal
+free
 uname
 
