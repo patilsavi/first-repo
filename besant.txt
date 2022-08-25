@@ -1,6 +1,3 @@
- test
 ge 
 hey hi
-wt else to write 
-ge
- main
+wt else to write
