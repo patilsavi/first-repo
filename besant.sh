@@ -1,4 +1,4 @@
 #!/bin/bash
-cal >> abhii.txt
+cal >> /besant abhii.txt
 uname
 
